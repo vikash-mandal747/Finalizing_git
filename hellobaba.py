@@ -1,0 +1,1 @@
+print("sab badhia chal raha hai")
